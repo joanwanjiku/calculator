@@ -14,8 +14,8 @@
     
 }
 .calc-display{
-    display: flex;
-    justify-content: space-between;
+    /* display: flex;
+    justify-content: space-between; */
     padding: .5em;
     background-color: rgb(10, 53, 19);
     color: white;
