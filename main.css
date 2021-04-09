@@ -38,6 +38,12 @@
 .key-operator{
     background-color: rgb(245, 253, 253);
 }
+.pressed{
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 .5rem #ffc600;
+
+}
 .key-equal{
     grid-row: 2/6;
     background-color: rgba(187, 86, 4, 0.733);
